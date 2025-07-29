@@ -15,3 +15,4 @@ This will remove code between `# BEGIN_SOLUTION` and `# END_SOLUTION` in code ce
 ## TODOs
 
 - PNG compression
+- PDF to JPGs
